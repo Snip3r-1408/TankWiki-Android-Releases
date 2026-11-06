@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "packageName": "de.snip3r.tankwiki.test",
+  "versionCode": 2,
+  "versionName": "0.0.2-test",
+  "minSdkVersion": 24,
+  "apkUrl": "https://github.com/Snip3r-1408/TankWiki-Android-Releases/releases/download/v0.0.2-test/TankWiki-Test-0.0.2-test.apk",
+  "sha256": "dfb33387ce2fcf966ae20758f223a541e7b6e37badfc88034040d764ea0a06b9",
+  "sizeBytes": 1169230
+}

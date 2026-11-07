@@ -1,10 +1,1 @@
-{
-  "schemaVersion": 1,
-  "packageName": "de.snip3r.tankwiki.test",
-  "versionCode": 4,
-  "versionName": "0.0.4a-test",
-  "minSdkVersion": 24,
-  "apkUrl": "https://github.com/Snip3r-1408/TankWiki-Android-Releases/releases/download/v0.0.4a-test/TankWiki-Test-0.0.4a-test.apk",
-  "sha256": "36bce4c7fab6386e0900d151e2b3a0326380567671539d143fb2c60649c398a6",
-  "sizeBytes": 1140415
-}
+{"schemaVersion":1,"packageName":"de.snip3r.tankwiki.test","versionCode":5,"versionName":"0.0.5-test","minSdkVersion":24,"apkUrl":"https://github.com/Snip3r-1408/TankWiki-Android-Releases/releases/download/v0.0.5-test/TankWiki-Test-0.0.5-test.apk","sha256":"dda80291fc33988bcb03d7033f4c694f545ccecbfcd432e8ceafe9a068dc5c3a","sizeBytes":1140415}
